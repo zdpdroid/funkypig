@@ -1,0 +1,7 @@
+# Chapter 1-20
+teststring = "testing the reverse string ways."
+print teststring[0:]
+print teststring[-5: -1]
+print teststring[: -5]
+print teststring[::-1]
+print teststring[::]
